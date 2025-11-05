@@ -1,0 +1,9 @@
+projeto_streaming/
+├── admin/
+│   ├── config.inc.php          (Pode reutilizar o anterior)
+│   ├── upload_video.php        (Formulário de upload)
+│   ├── processar_upload.php    (Lógica de upload)
+│   ├── listar_videos.php       (Lista todos os vídeos)
+│   ├── assistir.php            (Página do player de vídeo)
+│   └── (outros arquivos do CRUD, como deletar.php, editar.php)
+└── uploads/
